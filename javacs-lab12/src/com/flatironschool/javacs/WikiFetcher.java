@@ -24,6 +24,7 @@ public class WikiFetcher {
 	 * @throws IOException
 	 */
 	public Elements fetchWikipedia(String url) throws IOException {
+
 		sleepIfNeeded();
 
 		// download and parse the document
