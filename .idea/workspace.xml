@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="722aa41b-32df-41e5-8c4f-8a27982ff3fd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javacs-lab12/src/com/flatironschool/javacs/WikiFetcher.java" afterPath="$PROJECT_DIR$/javacs-lab12/src/com/flatironschool/javacs/WikiFetcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javacs-lab12/src/com/flatironschool/javacs/WikiSearch.java" afterPath="$PROJECT_DIR$/javacs-lab12/src/com/flatironschool/javacs/WikiSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javacs-lab12/src/resources/en.wikipedia.org/wiki/Java_(Programming_Language)" afterPath="$PROJECT_DIR$/javacs-lab12/src/resources/en.wikipedia.org/wiki/Java_(Programming_Language)" />
     </list>
     <ignored path="cs-application-retrieval-lab-codeU.iws" />
@@ -725,12 +724,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468348559689</updated>
-      <workItem from="1468348571919" duration="4739000" />
+      <workItem from="1468348571919" duration="4877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4739000" />
+    <option name="totallyTimeSpent" value="4877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="6" />
